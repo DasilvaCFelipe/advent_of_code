@@ -8,5 +8,6 @@ Check more info in:
 <a> https://adventofcode.com/2021/about </a>
 
 
-Day 1: On Progress;
+Day 1: Done; <br />
+Day 2: On Progress;
 
